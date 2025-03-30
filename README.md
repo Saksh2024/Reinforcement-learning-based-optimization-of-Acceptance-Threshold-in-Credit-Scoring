@@ -1,8 +1,8 @@
 # Optimizing Acceptance Threshold in Credit Scoring using Reinforcement Learning
 <p align = "justify">
-  This is a repository for a research project conducted in 2017-2018 at Creditstar Group, Estonia under the supervision of Karl Märka, Head of Data Science at Creditstar Group, and Oliver Lukason, PhD at the University of Tartu.
+ 
 
-The research article can be found [here](../master/Article.pdf).
+
 
 The source code for the project can be found in the [Source](../master/Source) directory.
 
